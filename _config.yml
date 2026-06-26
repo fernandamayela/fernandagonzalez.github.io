@@ -12,7 +12,7 @@ title                    : "Fernanda M. Gonzalez"
 title_separator          : "-"
 name                     : &name "Fernanda Gonzalez"
 description              : &description "personal description"
-url                      : https://fernandagonzalez.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://fernandagonzalez.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "fernandamayela/fernandagonzalez.github.io"
 
