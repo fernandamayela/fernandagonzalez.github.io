@@ -1,11 +1,40 @@
 ---
 permalink: /
-title: "Welcome 👋🏼"
+title: "About"
 author_profile: true
 ---
+<style>
+.hover-image {
+    display: none;
+    position: absolute;
+    width: 300px; /* Adjust the size as needed */
+    height: auto;
+    z-index: 10; /* Ensure the image is on top */
+}
+.hover-trigger {
+    position: relative;
+    cursor: pointer;
+}
+</style>
 
-Hi, welcome to my website! My name is Fernanda Gonzalez, I am a senior at Wellesley College majoring in political science with a minor in computer science. My research focuses on the impact of linguistic accessibility on political engagement, specifically by analyzing the availability of online multilingual election-related information for individuals facing language barriers. 
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    var trigger = document.querySelector('.hover-trigger');
+    var image = document.querySelector('.hover-image');
+    
+    trigger.addEventListener('mouseover', function() {
+        image.style.display = 'block';
+    });
+    
+    trigger.addEventListener('mouseout', function() {
+        image.style.display = 'none';
+    });
+});
+</script>
 
-Driven by a personal commitment to address the challenges faced by my home state, Texas, I am committed to addressing language accessibility as a significant barrier to political participation, particularly for non-native-English voters who often lack tailored election materials and are frequently overlooked, making Texas a state I am proud to call home.
+Hello! My name is Fernanda and I’m a second-year PhD student in the Department of Political Science at Duke University with a focus on political behavior and identity and race and ethnid politics (REP). My current research examines how racial identity shifts over time, theorizing that it follows predictable cycles shaped by the cultural calendar. My prior work has explored nonpartisan elections and the availability of Spanish-language translations in political and institutional contexts, and the various forms of identity formation. 
 
-I aim to delve deeper into political science, specifically focusing on researching and understanding the success factors influencing progressive Latino/a/xs in local state politics. My goal is not only to bridge the gap between academic research and real-world impact but also to champion a more inclusive and representative political landscape, starting from the foundations of our state government.
+My previous work can be found in PNAS and has been presented at conferences including APSA, SPSA, and ESRA. During my undergraduate years I served as a research assistant at MIT's Election Data and Science Lab (MEDSL) and participated in the Ralph Bunche Summer Institute. I hold a B.A. in Political Science from Wellesley College and am originally from Austin, Texas and enjoy reading, cross-stitching, traveling, music, and spending time with my dachshunds 
+<span class="hover-trigger" style="color: #F58FC0;">(Coco & Pepa)</span>!
+
+<img src="https://fernandagonzalez.github.io/images/coco_and_pepa.png" alt="Coco and Pepa" class="hover-image" style="top: 245px; left: 780px;">
