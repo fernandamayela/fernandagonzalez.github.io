@@ -1,7 +1,7 @@
 ---
 title: "Research & Work Experience"
 permalink: /experience/
-author_profile: true
+author_profile: false
 ---
 MIT Election Data + Science Lab (MEDSL) 
 --
