@@ -12,9 +12,9 @@ title                    : "Fernanda M. Gonzalez"
 title_separator          : "-"
 name                     : &name "Fernanda Gonzalez"
 description              : &description "personal description"
-url                      : https://fernandamayela.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://fernandagonzalez.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "fernandamayela/fernandamayela.github.io"
+repository               : "fernandagonzalez/fernandagonzalez.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,17 +24,17 @@ author:
   avatar           : "profile.png"
   name             : "Fernanda Gonzalez"
   pronouns         : "she/her"  
-  bio              : "Political Science & Computer Science at Wellesley College"
-  location         : "Austin, TX"
-  employer         : "Wellesley College"
+  bio              : "Political Science PhD Student"
+  location         : "Durham, NC"
+  employer         : "Duke University"
   uri              : # URL
-  email            : "fg100@wellesley.edu" 
+  email            : "fernanda.gonzalez@duke.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=LAlx_QIAAAAJ&hl=en&oi=sra"
+  googlescholar    : "https://scholar.google.com/citations?user=LAlx_QIAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : # URL "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0006-8629-5090"
   semantic         : # URL
   pubmed           : # URL "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "fernandamayela"
+  github           : # "fernandamayela"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
