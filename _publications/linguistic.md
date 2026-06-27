@@ -1,15 +1,15 @@
 ---
-title: "¿Dónde diablos voto? Unexamined Variations in Linguistic Responsiveness"
+title: "¿Dónde diablos voto? A New Measure of Linguistic Accessibility with Evidence on Latino Constituents"
 collection: publications
 permalink: /research/linguistic
-excerpt: 'with Alejandro Flores, Samuel Baltz, Thessalia Merivaki, Mara Suttmann-Lee, and Charles Stweart III'
-date: 2024-01-03
-venue: 'MEDSL'
+excerpt: 'with Thessalia Merivaki, Mara Suttmann-Lee,Alejandro Flores, Samuel Baltz, and Charles Stweart III'
+date: 2026-06-01
+venue: ''
 slidesurl: 
 paperurl: 
 citation: 
 ---
 
-When democratic offcials communicate in a particular language, they implicitly include some constituents and exclude others. Very little research has identified what factors shape or constrain this decision. We propose a simple framework called “linguistic responsiveness”, which asks how closely the languages used by democratic offcials match the languages of their constituents. Perfect linguistic responsiveness may not be feasible, but how large a gap should we expect? Departures from linguistic responsiveness may be systematically related to important political processes, with potential implications for representation and participation. We illustrate the empirical study of linguistic responsiveness by classifying the languages available across the online platforms of 672 U.S. jurisdictions. We find substantial variation with no simple explanation. The well-established impact of information ecosystems on political outcomes suggests a pressing need to understand when and why offcials are linguistically responsive.
+Constituents’ encounters with the government shape attitudes about representation and partici- pation. Much of what we know about these encounters, however, relies on interactions conducted in English, leaving the role of linguistic accessibility largely unexplored. We argue that linguistic accessibility serves as an observable feature that informs how constituents evaluate accessibility and responsiveness. To evaluate this claim, we provide a new measure for linguistic accessibility by assembling a dataset documenting the availability and depth of language translations across local election websites, congressional sites, and other constituent-facing portals. Linking our administrative index to the Collaborative Multiracial Post-Election Study, we find that Latinos in high Spanish-language provision districts report more favorable appraisals of whether repre- sentatives serve Latino interests. These results demonstrate that linguistic accessibility is an institutional design choice with measurable impacts on substantive representation and access to government services
 
 Keywords: representation, language politics, public administration, social media

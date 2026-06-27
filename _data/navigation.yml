@@ -1,19 +1,19 @@
 # main links links
 main:
-  - title: "👩🏻‍💻 About"
-    url: /about-me/
+  # - title: "About"
+  #   url: /abou/
     
-  - title: "📖 Research"
-    url: /research/
+  - title: "Publications"
+    url: /publications/
 
-  - title: "👩🏻‍🏫 Conferences"
-    url: /talks/    
+  # - title: "Conferences"
+  #   url: /talks/    
 
-  - title: "💻 Experience"
-    url: /experience/    
+  # - title: "💻 Experience"
+  #   url: /experience/    
     
-  - title: "📇 CV"
-    url: /files/Gonzalez_CV.pdf
+  - title: "CV"
+    url: /files/CV__2026_.pdf
 
-  - title: "📧 Contact"
-    url: /contact/
+  # - title: "📧 Contact"
+  #   url: /contact/
