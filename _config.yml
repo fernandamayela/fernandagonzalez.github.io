@@ -21,7 +21,7 @@ repository               : "fernandamayela/fernandamayela.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : #"Fernanda M. Gonzalez"
   pronouns         : #"she/her"
   bio              : "Political Science PhD Student"
