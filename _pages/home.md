@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Fernanda M. Gonzalez"
+title: ""
 author_profile: true
 ---
 <style>
