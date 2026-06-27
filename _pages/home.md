@@ -34,7 +34,9 @@ document.addEventListener('DOMContentLoaded', function() {
 
 Hello! My name is Fernanda and I’m a second-year PhD student in the Department of Political Science at Duke University with a focus on political behavior and identity and race and ethnid politics (REP). My current research examines how racial identity shifts over time, theorizing that it follows predictable cycles shaped by the cultural calendar. My prior work has explored nonpartisan elections and the availability of Spanish-language translations in political and institutional contexts, and the various forms of identity formation. 
 
-My previous work can be found in PNAS and has been presented at conferences including APSA, SPSA, and ESRA. During my undergraduate years I served as a research assistant at MIT's Election Data and Science Lab (MEDSL) and participated in the Ralph Bunche Summer Institute. I hold a B.A. in Political Science from Wellesley College and am originally from Austin, TX and enjoy reading, crafting, and spending time with my dachshund
+My previous work can be found in PNAS and has been presented at conferences including APSA, SPSA, and ESRA. I am a Spring 2026 APSA Diversity Fellow. During my undergraduate years I served as a research assistant at MIT's Election Data and Science Lab (MEDSL) and participated in the Ralph Bunche Summer Institute.
+
+I hold a B.A. in Political Science from Wellesley College and am originally from Austin, TX and enjoy reading, crafting, and spending time with my dachshund
 <span class="hover-trigger" style="color: #F58FC0;">(Coco)</span>!
 
 <img src="https://fernandamayela.github.io/images/coco.jpeg" alt="Coco and Pepa" class="hover-image" style="top: 245px; left: 780px;">
