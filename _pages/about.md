@@ -37,4 +37,4 @@ Hello! My name is Fernanda and I’m a second-year PhD student in the Department
 My previous work can be found in PNAS and has been presented at conferences including APSA, SPSA, and ESRA. During my undergraduate years I served as a research assistant at MIT's Election Data and Science Lab (MEDSL) and participated in the Ralph Bunche Summer Institute. I hold a B.A. in Political Science from Wellesley College and am originally from Austin, Texas and enjoy reading, cross-stitching, traveling, music, and spending time with my dachshunds 
 <span class="hover-trigger" style="color: #F58FC0;">(Coco & Pepa)</span>!
 
-<img src="https://fernandagonzalez.github.io/images/coco_and_pepa.png" alt="Coco and Pepa" class="hover-image" style="top: 245px; left: 780px;">
+<img src="https://fernandamayela.github.io/images/coco_and_pepa.png" alt="Coco and Pepa" class="hover-image" style="top: 245px; left: 780px;">

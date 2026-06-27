@@ -1,7 +1,7 @@
 ---
 title: "Audits of the 2020 American election show an accurate vote count"
 collection: publications
-permalink: /research/audit
+permalink: /research/audit/
 excerpt: 'with Samuel Baltz, Kevin Guo, Jacob Jaffe, and Charles Stweart III'
 date: 2025-05-12
 venue: 'PNAS'

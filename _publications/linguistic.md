@@ -1,7 +1,7 @@
 ---
 title: "¿Dónde diablos voto? A New Measure of Linguistic Accessibility with Evidence on Latino Constituents"
 collection: publications
-permalink: /research/linguistic
+permalink: /research/linguistic/
 excerpt: 'with Thessalia Merivaki, Mara Suttmann-Lee,Alejandro Flores, Samuel Baltz, and Charles Stweart III'
 date: 2026
 venue: 
