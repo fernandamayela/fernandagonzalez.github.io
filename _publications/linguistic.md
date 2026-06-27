@@ -3,8 +3,8 @@ title: "¿Dónde diablos voto? A New Measure of Linguistic Accessibility with Ev
 collection: publications
 permalink: /research/linguistic
 excerpt: 'with Thessalia Merivaki, Mara Suttmann-Lee,Alejandro Flores, Samuel Baltz, and Charles Stweart III'
-date: 2026-06-01
-venue: ''
+date: 2026
+venue: 
 slidesurl: 
 paperurl: 
 citation: 

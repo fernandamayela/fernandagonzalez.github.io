@@ -4,7 +4,7 @@ collection: publications
 permalink: /research/partisanship
 excerpt: 'with Mason Reece, Gabrielle Péloquin-Skulski, Kate Murray, Joe Loffredo, Kevin E. Acevedo Jetter, Zachary Garai, Alejandro Flores, Lucas Bulić Bračulj, Samuel Baltz, and Charles Stewart III'
 date: 2024-01-01
-venue: 'MEDSL'
+venue: 'MIT Press'
 slidesurl: 
 paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4721012'
 citation: 
