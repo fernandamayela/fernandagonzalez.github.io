@@ -10,9 +10,9 @@
 locale                   : "en-US"
 title                    : "Fernanda M. Gonzalez"
 title_separator          : "-"
-name                     : &name "Fernanda Gonzalez"
-description              : &description "personal description"
-url                      : "https://fernandagonzalez.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Fernanda M. Gonzalez"
+description              : &description "Political Science PhD Students"
+url                      : "" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "fernandamayela/fernandagonzalez.github.io"
 
@@ -22,7 +22,7 @@ repository               : "fernandamayela/fernandagonzalez.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Fernanda Gonzalez"
+  name             : "Fernanda M. Gonzalez"
   pronouns         : "she/her"  
   bio              : "Political Science PhD Student"
   location         : "Durham, NC"
