@@ -12,9 +12,9 @@ title                    : "Fernanda M. Gonzalez"
 title_separator          : "-"
 name                     : &name "Fernanda M. Gonzalez"
 description              : &description "Political Science PhD Student"
-url                      : fernandagonzalez.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : fernandamayela.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "fernandamayela/fernandagonzalez.github.io"
+repository               : "fernandamayela/fernandamayela.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
