@@ -22,8 +22,8 @@ repository               : "fernandamayela/fernandamayela.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Fernanda M. Gonzalez"
-  pronouns         : "she/her"  
+  name             : #"Fernanda M. Gonzalez"
+  pronouns         : #"she/her"
   bio              : "Political Science PhD Student"
   location         : "Durham, NC"
   employer         : "Duke University"
